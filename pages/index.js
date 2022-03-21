@@ -31,15 +31,6 @@ export default function Home({ posts }) {
                 a curious software developer who's trying to get a bit better every day
               </h1>
             </div>
-            <div>
-              <Image
-                src="/static/images/einar-avatar-new.jpg"
-                alt="avatar"
-                width="384px"
-                height="384px"
-                className=" [clip-path:polygon(0%_0%,100%_0%,50%_100%,0%_50%)]"
-              />
-            </div>
           </div>
           <p className="text-lg leading-7 text-slate-600 dark:text-slate-300">
             This is my place for{' '}
