@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hi!👋</title>
+      <link>https://localhost:3000,/blog</link>
+      <description>My online place for thoughts</description>
+      <language>en-us</language>
+      <managingEditor>minar@duck.com (Shovon)</managingEditor>
+      <webMaster>minar@duck.com (Shovon)</webMaster>
+      <lastBuildDate>Sun, 25 Apr 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://localhost:3000,/tags/python/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://localhost:3000,/blog/automation</guid>
+    <title>Automate your fitness after lockdown</title>
+    <link>https://localhost:3000,/blog/automation</link>
+    <description>After the lockdowns started to lift the demand for a space in crossfit classes in my box was very high. I had to set an alarm to be ready to reserve a spot when available. So I tried to automate that process.</description>
+    <pubDate>Sun, 25 Apr 2021 00:00:00 GMT</pubDate>
+    <author>minar@duck.com (Shovon)</author>
+    <category>python</category><category>programming</category>
+  </item>
+
+    </channel>
+  </rss>

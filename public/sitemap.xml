@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://localhost:3000,/about</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/latex-template</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/uses</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/automation</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/collection01</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/guide-to-using-images-in-nextjs</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/mac-setup</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/new-blog</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/new-features-in-v1</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/spotify</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/waving-hand</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/obsidian/obsidian-pt1</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/obsidian/obsidian-pt2</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/3d-shapes</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/alttext</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/aws-toolbox</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/blockman</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/challenge</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/cleancode</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/codesnippets</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/css</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/customhooks</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/darkmode</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/design-sites</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/design</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/designquestions</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/git-comments</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/git-switch</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/hanlons-razor</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/notation</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/npm</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/photopea</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/postchallenge</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/principles</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/reacmodel1</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/react-thinking</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/react</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/reactmodel2</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/readme</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/software</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/squash</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/storyset</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/ui-ux-webistes</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/useeffect</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/vscode</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/til/webcode</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/code-sample</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/blog/my-fancy-title</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/anki</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/code</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/collection</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/css</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/development</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/features</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/growth</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/mac</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/markdown</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/mix</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/next-js</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/old-browser</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/password</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/personal-website</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/pkm</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/productivity</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/programming</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/python</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/reflections</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/technology</loc>
+  </url>
+
+  <url>
+    <loc>https://localhost:3000,/tags/til</loc>
+  </url>
+</urlset>

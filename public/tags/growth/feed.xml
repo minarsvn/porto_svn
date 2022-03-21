@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Hi!👋</title>
+      <link>https://localhost:3000,/blog</link>
+      <description>My online place for thoughts</description>
+      <language>en-us</language>
+      <managingEditor>minar@duck.com (Shovon)</managingEditor>
+      <webMaster>minar@duck.com (Shovon)</webMaster>
+      <lastBuildDate>Sun, 08 Aug 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://localhost:3000,/tags/growth/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://localhost:3000,/blog/obsidian/obsidian-pt2</guid>
+    <title>Building my second brain with Obsidian pt. II</title>
+    <link>https://localhost:3000,/blog/obsidian/obsidian-pt2</link>
+    <description>How I use Obsidian</description>
+    <pubDate>Sun, 08 Aug 2021 00:00:00 GMT</pubDate>
+    <author>minar@duck.com (Shovon)</author>
+    <category>PKM</category><category>growth</category>
+  </item>
+
+  <item>
+    <guid>https://localhost:3000,/blog/obsidian/obsidian-pt1</guid>
+    <title>Building my second brain with Obsidian pt. I</title>
+    <link>https://localhost:3000,/blog/obsidian/obsidian-pt1</link>
+    <description>Introduction to building my second brain</description>
+    <pubDate>Sat, 07 Aug 2021 00:00:00 GMT</pubDate>
+    <author>minar@duck.com (Shovon)</author>
+    <category>PKM</category><category>growth</category>
+  </item>
+
+    </channel>
+  </rss>
